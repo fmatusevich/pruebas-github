@@ -3,4 +3,4 @@
 - En construcción
 
 para ejecutarlo debes ejecutar en una consola
-``` npm install react ```
+``` npm install pipi ```
